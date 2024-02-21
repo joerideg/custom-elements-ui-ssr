@@ -1,0 +1,8 @@
+{
+  "name": "@joeri/custom-elements-ui-ssr",
+  "private": true,
+  "volta": {
+    "node": "20.11.1",
+    "pnpm": "8.15.3"
+  }
+}
